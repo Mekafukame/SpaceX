@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SafePlace
+  - Map
+  - Ship
+  - Bullet
+  - Menu
+  - Checkpoint
+  - AmmoSpawns
+  - RaceSpawnPoint
+  - Rocket
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - P1
+  - P2
+  - P3
+  - P4
+  - Bullet
+  - Rocket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3549942191
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AmmoBox
+    uniqueID: 2579187575
+    locked: 0
+  - name: spawns
+    uniqueID: 3175519713
+    locked: 0
+  - name: map
+    uniqueID: 531036381
+    locked: 0
+  - name: Effects
+    uniqueID: 82390567
+    locked: 0
+  - name: Player
+    uniqueID: 3194205403
+    locked: 0
+  - name: UI
+    uniqueID: 1235405547
+    locked: 0
+  - name: Bullet
+    uniqueID: 1058425173
+    locked: 0
